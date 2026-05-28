@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <div>
       <div className="hero">
-        <h2> bienvenidos</h2>
+        <h2> bienvenidos GITHUB</h2>
         <p>tienda online</p>
         <button className="btn">buscar</button>
       </div>
