@@ -2,30 +2,35 @@
   margin: 0%;
   padding: 0%;
 }
+
 body {
-  background-color: #f4d59c;
+  background-color: #504e76;
   font-family:
     "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
 }
+
 .header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background-color: #f303bb;
+  background-color: #cdebf1;
   color: rgb(255, 255, 255);
   padding: 10px;
 }
+
 .logo {
   font-size: 24px;
   font-weight: bold;
   font-family: cursive;
 }
+
 .header a {
   color: rgb(250, 247, 248);
   text-decoration: none;
   margin-left: 15px;
 }
+
 .header a:hover {
   color: rgb(218, 132, 174);
 }
@@ -33,22 +38,23 @@ body {
 .conten-logo {
   display: flex;
 }
+
 .img-logo {
   width: 50px;
 }
+
 .hero {
   margin-top: 20px;
   text-align: center;
   padding: 20px 60px;
-  background: #ab2c2c;
-  background: #ed4a70;
-  background: linear-gradient(
-    90deg,
-    rgba(237, 74, 112, 1) 0%,
-    rgba(237, 111, 183, 1) 50%,
-    rgba(237, 83, 119, 1) 100%
-  );
+  background: #cbceea;
+  background: #cbceea;
+  background: linear-gradient(90deg,
+      rgba(237, 74, 112, 1) 0%,
+      rgba(237, 111, 183, 1) 50%,
+      rgba(237, 83, 119, 1) 100%);
 }
+
 .btn {
   margin-top: 20px;
   padding: 5px;
@@ -56,6 +62,7 @@ body {
   border: none;
   border-radius: 7px;
 }
+
 .btn:hover {
   background: rgb(203, 92, 126);
   transform: translateY(-8px) scale(1);
@@ -117,7 +124,9 @@ body {
 
 .tarjeta button:hover {
   background: #0056b3;
-} /* Tarjeta básica */
+}
+
+/* Tarjeta básica */
 .tarjeta {
   width: 300px;
   background: white;
@@ -166,6 +175,7 @@ body {
 .tarjeta button:hover {
   background: #0056b3;
 }
+
 .video-seccion video {
   width: 100%;
   max-width: 600px;
@@ -174,10 +184,12 @@ body {
   margin: 2px auto;
   border-radius: 4px;
 }
+
 .video-seccion {
-  background-color: #f303bb;
+  background-color: #c4c3e3;
   padding: 10px;
 }
+
 .video-seccion h2 {
   text-align: center;
   color: black;
