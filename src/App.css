@@ -1,0 +1,185 @@
+ 
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    background-color: #f57ab4;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.header{
+    display:flex ;
+    justify-content: space-between;
+    align-items: center;
+   background-color: rgb(255, 0, 123);
+   color: rgb(255, 255, 255);
+  padding: 10px ;
+  
+}
+.logo{
+    font-size: 24px;
+    font-weight: bold;
+    font-family:cursive ;
+}
+.header a{
+    color: rgb(250, 247, 248);
+    text-decoration: none;
+    margin-left: 15px;
+
+}
+.header a:hover{
+    color: rgb(218, 132, 174);
+
+}
+
+.conten-logo{
+    display: flex;
+}
+.img-logo{
+    width: 50px;
+}
+.hero{
+    margin-top: 20px;
+    text-align: center;
+    padding: 20px 60px;
+background: #ab2c2c;
+background: #ed4a70;
+background: linear-gradient(90deg, rgba(237, 74, 112, 1) 0%, rgba(237, 111, 183, 1) 50%, rgba(237, 83, 119, 1) 100%);
+}
+.btn {
+    margin-top: 20px;
+    padding: 5px;
+    background-color: #e71eaa;
+    border: none;
+    border-radius: 7px;
+   
+    
+}
+.btn:hover{
+background: rgb(203, 92, 126);
+transform: translateY(-8px) scale(1);
+box-shadow: 0px 10px 10px black;
+color: rgb(255, 255, 255);
+}
+
+ .contenedor{
+display: flex;
+justify-content: center;
+gap: 20px;
+padding: 20px; ;}
+
+.tarjeta {
+    width: 300px;
+    background: rgb(222, 20, 20);
+    border-radius: 15px;
+    padding: 20px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+    text-align: center;
+    font-family: Arial, sans-serif;
+    transition: transform 0.3s;
+}
+
+/* Efecto al pasar el mouse */
+.tarjeta:hover {
+    transform: scale(1.05);
+}
+
+/* Imagen */
+.tarjeta img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+/* Título */
+.tarjeta h2 {
+    color: #333;
+    margin: 15px 0 10px;
+}
+
+/* Texto */
+.tarjeta p {
+    color: #666;
+    font-size: 14px;
+}
+
+/* Botón */
+.tarjeta button {
+    background: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 8px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+.tarjeta button:hover {
+    background: #0056b3;
+}/* Tarjeta básica */
+.tarjeta {
+    width: 300px;
+    background: white;
+    border-radius: 15px;
+    padding: 20px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+    text-align: center;
+    font-family: Arial, sans-serif;
+    transition: transform 0.3s;
+}
+
+/* Efecto al pasar el mouse */
+.tarjeta:hover {
+    transform: scale(1.05);
+}
+
+/* Imagen */
+.tarjeta img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+/* Título */
+.tarjeta h2 {
+    color: #333;
+    margin: 15px 0 10px;
+}
+
+/* Texto */
+.tarjeta p {
+    color: #666;
+    font-size: 14px;
+}
+
+/* Botón */
+.tarjeta button {
+    background: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 8px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+.tarjeta button:hover {
+    background: #0056b3;
+}
+.video-seccion video{
+width: 100%;
+max-width: 600px;
+height: auto;
+display: block;
+margin: 2px auto;
+border-radius: 4px;
+}
+.video-seccion{
+
+background-color: #f303bb;
+padding: 10px;
+}
+.video-seccion h2{
+    text-align: center;
+    color: black;
+    padding: 7px;
+    margin-top: 7px;
+}
