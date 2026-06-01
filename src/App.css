@@ -197,3 +197,8 @@ body {
   margin-top: 7px;
   font-family: "Times New Roman", Times, serif;
 }
+.mi-fooder h1 {
+  color: aliceblue;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  text-align: center;
+}
