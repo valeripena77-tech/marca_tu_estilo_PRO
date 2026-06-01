@@ -49,10 +49,7 @@ body {
   padding: 20px 60px;
   background: #cbceea;
   background: #cbceea;
-  background: linear-gradient(90deg,
-      #cbceea 0%,
-      #cbceea 50%,
-      #cbceea 100%);
+  background: linear-gradient(90deg, #cbceea 0%, #cbceea 50%, #cbceea 100%);
   color: aliceblue;
   font-family: "Times New Roman", Times, serif;
 }
@@ -199,4 +196,8 @@ body {
   padding: 7px;
   margin-top: 7px;
   font-family: "Times New Roman", Times, serif;
+}
+.footer {
+  text-align: center;
+  color: aliceblue;
 }
