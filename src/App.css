@@ -49,10 +49,12 @@ body {
   padding: 20px 60px;
   background: #cbceea;
   background: #cbceea;
-  background: linear-gradient(90deg,
-      rgba(237, 74, 112, 1) 0%,
-      rgba(237, 111, 183, 1) 50%,
-      rgba(237, 83, 119, 1) 100%);
+  background: linear-gradient(
+    90deg,
+    rgba(237, 74, 112, 1) 0%,
+    rgba(237, 111, 183, 1) 50%,
+    rgba(237, 83, 119, 1) 100%
+  );
 }
 
 .btn {
@@ -192,7 +194,7 @@ body {
 
 .video-seccion h2 {
   text-align: center;
-  color: black;
+  color: rgb(236, 230, 230);
   padding: 7px;
   margin-top: 7px;
 }
