@@ -4,7 +4,7 @@
 }
 
 body {
-  background-color: #504e76;
+  background-color: #91d7ec;
   font-family:
     "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
@@ -47,9 +47,9 @@ body {
   margin-top: 20px;
   text-align: center;
   padding: 20px 60px;
-  background: #cbceea;
-  background: #cbceea;
-  background: linear-gradient(90deg, #959ef1 0%, #75afe1 50%, #7bd9f0 100%);
+  background: #a8dbe9;
+  background: #7cbdeb;
+  background: linear-gradient(90deg, #95c9f1 0%, #75afe1 50%, #7bd9f0 100%);
   color: aliceblue;
   font-family: "Times New Roman", Times, serif;
 }
@@ -186,7 +186,7 @@ body {
 }
 
 .video-seccion {
-  background-color: #c4c3e3;
+  background-color: #9bc7dd;
   padding: 10px;
 }
 
