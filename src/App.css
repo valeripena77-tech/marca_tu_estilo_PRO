@@ -55,6 +55,7 @@ body {
     rgba(237, 111, 183, 1) 50%,
     rgba(237, 83, 119, 1) 100%
   );
+  color: aliceblue;
 }
 
 .btn {
@@ -197,4 +198,5 @@ body {
   color: rgb(244, 242, 242);
   padding: 7px;
   margin-top: 7px;
+  font-family: "Times New Roman", Times, serif;
 }
