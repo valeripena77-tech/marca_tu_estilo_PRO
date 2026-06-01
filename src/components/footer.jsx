@@ -1,5 +1,5 @@
-export function Footer() {
-  return (
+export default function Footer() {
+  return(
     <div className="footer">
       <h1>este es el pie de pagina(2026)</h1>
     <div/>
