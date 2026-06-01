@@ -7,7 +7,7 @@ export function Head() {
           src="Blue_Teddy_Bear_Sticker-removebg-preview.png"
           alt=""
         />
-        <h1 className="logo"> marca tu stilo pro</h1>
+        <h1 className="logo"> marca tu estilo pro</h1>
       </div>
       <nav>
         <a href="">inico</a>
