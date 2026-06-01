@@ -54,6 +54,7 @@ body {
       #cbceea 50%,
       #cbceea 100%);
   color: aliceblue;
+  font-family: "Times New Roman", Times, serif;
 }
 
 .btn {
@@ -62,6 +63,7 @@ body {
   background-color: #e71eaa;
   border: none;
   border-radius: 7px;
+  color: aliceblue;
 }
 
 .btn:hover {
