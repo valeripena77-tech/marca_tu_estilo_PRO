@@ -20,7 +20,7 @@ body {
 }
 
 .logo {
-  font-size: 24px;
+  font-size: 2px;
   font-weight: bold;
   font-family: cursive;
 }
@@ -34,7 +34,6 @@ body {
 .header a:hover {
   color: rgb(218, 132, 174);
 }
- 
 
 .btn {
   margin-top: 20px;
