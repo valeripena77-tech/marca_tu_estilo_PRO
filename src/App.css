@@ -24,7 +24,14 @@ body {
   font-weight: bold;
   font-family: cursive;
 }
-
+.conten-logo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.img-logo {
+  width: 50px;
+}
 .header a {
   color: rgb(250, 247, 248);
   text-decoration: none;
@@ -32,9 +39,8 @@ body {
 }
 
 .header a:hover {
-  color: rgb(218, 132, 174);
+  color: rgb(134, 132, 218);
 }
- 
 
 .btn {
   margin-top: 20px;
@@ -128,6 +134,7 @@ body {
 /* Imagen */
 .tarjeta img {
   width: 100%;
+  height: 20vh;
   border-radius: 10px;
 }
 
