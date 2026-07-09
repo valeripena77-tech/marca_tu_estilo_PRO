@@ -4,9 +4,11 @@ export default function Home() {
   return (
     <div>
       <div className="hero">
-        <h2> BIENVENIDOS</h2>
-        <p>tienda online</p>
-        <button className="btn">buscar</button>
+        <div className="bienvenidos">
+          <h2> BIENVENIDOS</h2>
+          <p>tienda online</p>
+          <button className="btn">buscar</button>
+        </div>
       </div>
       <div className="video-seccion">
         <h2>video de muestra</h2>
