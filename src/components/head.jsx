@@ -10,13 +10,10 @@ export function Head() {
         />
         <h1 className="logo"> marca tu estilo pro</h1>
       </div>
-<<<<<<< HEAD
       <div className="buscar">
         <Icons.Search />
         <input type="text" placeholder="Buscar..." />
       </div>
-=======
->>>>>>> 97a77479f17d59486d33f96b7ea729cd7c3f2e87
     </header>
   );
 }
