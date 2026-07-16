@@ -1,6 +1,7 @@
 export default function Footer() {
-  return;
-  <div className="footer">
-    <h1>estes es mi footer</h1>
-  </div>;
+  return (
+    <footer className="mi-footer">
+      <h1>este es el pie de pagina.(2026)</h1>
+    </footer>
+  );
 }

@@ -205,7 +205,8 @@ body {
   align-items: center;
   margin: 15px;
 }
-.footer {
+.mi-footer {
+  text-align: center;
   margin-top: 100px;
-  background-color: #007bff;
+  background-color: #104379;
 }
