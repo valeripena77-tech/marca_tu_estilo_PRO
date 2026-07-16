@@ -7,6 +7,13 @@ export default function Home() {
         <div className="bienvenidos">
           <h2> BIENVENIDOS</h2>
           <p>tienda online</p>
+          <div className="barra">
+            <nav>
+              <a href="">inico </a>
+              <a href="">servicios </a>
+              <a href="">contactos </a>
+            </nav>
+          </div>
           <button className="btn">buscar</button>
         </div>
       </div>
