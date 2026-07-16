@@ -9,11 +9,6 @@ export function Head() {
         />
         <h1 className="logo"> marca tu estilo pro</h1>
       </div>
-      <nav>
-        <a href="">inico</a>
-        <a href="">servicios</a>
-        <a href="">contactos</a>
-      </nav>
     </header>
   );
 }

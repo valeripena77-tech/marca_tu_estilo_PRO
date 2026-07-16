@@ -4,7 +4,7 @@
 }
 
 body {
-  background-color: #504e76;
+  background-color: #650ec2;
   font-family:
     "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
@@ -39,7 +39,7 @@ body {
 }
 
 .header a:hover {
-  color: rgb(98, 96, 199);
+  color: rgb(75, 47, 165);
 }
 
 .btn {
@@ -208,5 +208,8 @@ body {
 .mi-footer {
   text-align: center;
   margin-top: 100px;
-  background-color: #104379;
+  background-color: #834bf397;
+}
+.barra {
+  text-align: center;
 }
