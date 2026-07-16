@@ -1,3 +1,4 @@
+import * as Icons from "lucide-react";
 export function Head() {
   return (
     <header className="header">
@@ -9,11 +10,10 @@ export function Head() {
         />
         <h1 className="logo"> marca tu estilo pro</h1>
       </div>
-      <nav>
-        <a href="">inico</a>
-        <a href="">servicios</a>
-        <a href="">contactos</a>
-      </nav>
+      <div className="buscar">
+        <Icons.Search />
+        <input type="text" placeholder="Buscar..." />
+      </div>
     </header>
   );
 }

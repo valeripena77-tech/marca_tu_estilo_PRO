@@ -210,3 +210,10 @@ body {
   margin-top: 100px;
   background-color: #104379;
 }
+.buscar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100px;
+  font-size: 40px;
+}
