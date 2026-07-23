@@ -5,16 +5,14 @@ export default function Home() {
     <div>
       <div className="hero">
         <div className="bienvenidos">
-          <h2> BIENVENIDOS</h2>
-          <p>tienda online</p>
-          <div className="barra">
-            <nav>
-              <a href="">inico </a>
-              <a href="">servicios </a>
-              <a href="">contactos </a>
-            </nav>
-          </div>
-          <button className="btn">buscar</button>
+          <nav>
+            <a href="">inico </a>
+            <a href="">tienda </a>
+            <a href="">categorias </a>
+            <a href="">ofertas </a>
+            <a href="">novedades </a>
+            <a href="">mas vendidos </a>z<a href="">contactos </a>
+          </nav>
         </div>
       </div>
       <div className="video-seccion">
