@@ -175,8 +175,12 @@ body {
 }
 
 .video-seccion {
+  text-align: center;
   background-color: #c4c3e3;
   padding: 10px;
+}
+.img {
+  width: 800px;
 }
 
 .video-seccion h2 {

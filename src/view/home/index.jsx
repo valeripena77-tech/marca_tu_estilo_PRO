@@ -41,9 +41,7 @@ export default function Home() {
         </div>
       </div>
       <div className="video-seccion">
-        <video controls>
-          <source src="public/video.mp4" type="video/mp4" video></source>
-        </video>
+        <img className="img" src="public/holas.jpeg" alt="" />
       </div>
       <Contenst />
     </div>
