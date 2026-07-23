@@ -239,3 +239,14 @@ body {
   height: 100px;
   font-size: 40px;
 }
+.boton {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100px;
+  font-size: 40px;
+}
+.boton-icono {
+  color: #9d7bc1;
+  width: 100%;
+}
