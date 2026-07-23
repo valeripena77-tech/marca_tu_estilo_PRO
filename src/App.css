@@ -4,7 +4,7 @@
 }
 
 body {
-  background-color: #650ec2;
+  background-color: #c89eeb;
   font-family:
     "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
@@ -204,7 +204,7 @@ body {
 .tarjetas {
   width: 5%;
   max-width: 100px;
-  background: #e0a8fe;
+  background: #e3caf0;
   color: white;
   border: none;
   padding: 10px 15px;

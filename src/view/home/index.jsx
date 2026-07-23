@@ -5,7 +5,9 @@ export default function Home() {
     <div>
       <div className="hero">
         <div className="buscar">
-          <Icons.TextAlignJustify />
+          <button class="boton-icono" aria-label="Buscar">
+            <Icons.TextAlignJustify />
+          </button>
         </div>
         <div className="tarjetas">
           <nav>
