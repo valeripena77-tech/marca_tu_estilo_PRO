@@ -202,6 +202,8 @@ body {
   height: 100hv;
 }
 .tarjetas {
+  width: 5%;
+  max-width: 100px;
   background: #e0a8fe;
   color: white;
   border: none;
@@ -209,12 +211,12 @@ body {
   border-radius: 8px;
   cursor: pointer;
   margin-top: 10px;
+  text-align: center;
 }
 .tarjetas:hover {
   transform: scale(1.05);
   background: #9d7bc1;
 }
-
 .bienvenidos {
   text-align: center;
   display: block;

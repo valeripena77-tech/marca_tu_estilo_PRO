@@ -1,9 +1,12 @@
 import Contenst from "./contents";
-
+import * as Icons from "lucide-react";
 export default function Home() {
   return (
     <div>
       <div className="hero">
+        <div className="buscar">
+          <Icons.TextAlignJustify />
+        </div>
         <div className="tarjetas">
           <nav>
             <a href="">inico </a>
