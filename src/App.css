@@ -202,8 +202,7 @@ body {
   height: 100hv;
 }
 .tarjetas {
-  width: 5%;
-  max-width: 100px;
+  display: flex;
   background: #e3caf0;
   color: white;
   border: none;
