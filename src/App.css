@@ -201,6 +201,19 @@ body {
   justify-content: center;
   height: 100hv;
 }
+.tarjetas {
+  background: #e0a8fe;
+  color: white;
+  border: none;
+  padding: 10px 15px;
+  border-radius: 8px;
+  cursor: pointer;
+  margin-top: 10px;
+}
+.tarjetas:hover {
+  transform: scale(1.05);
+  background: #9d7bc1;
+}
 
 .bienvenidos {
   text-align: center;
