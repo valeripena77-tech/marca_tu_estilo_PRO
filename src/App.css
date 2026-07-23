@@ -210,7 +210,6 @@ body {
   border-radius: 8px;
   cursor: pointer;
   margin-top: 10px;
-  text-align: center;
 }
 .tarjetas:hover {
   transform: scale(1.05);
@@ -251,4 +250,11 @@ body {
 }
 .nav a {
   text-decoration: none;
+  color: #3b1154;
+  font-family: sans-serif;
+  font-weight: bold;
+  font-size: 14px;
+  display: block;
+  text-align: center;
+  width: 100%;
 }
