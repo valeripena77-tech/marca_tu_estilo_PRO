@@ -11,7 +11,8 @@ export default function Home() {
             <a href="">categorias </a>
             <a href="">ofertas </a>
             <a href="">novedades </a>
-            <a href="">mas vendidos </a>z<a href="">contactos </a>
+            <a href="">mas vendidos </a>
+            <a href="">contactos </a>
           </nav>
         </div>
       </div>
