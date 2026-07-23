@@ -10,37 +10,37 @@ export default function Home() {
           </button>
         </div>
         <div className="tarjetas">
-          <nav>
+          <nav className="nav">
             <a href="">inico </a>
           </nav>
         </div>
         <div className="tarjetas">
-          <nav>
+          <nav className="nav">
             <a href="">tienda </a>
           </nav>
         </div>
         <div className="tarjetas">
-          <nav>
+          <nav className="nav">
             <a href="">categorias </a>
           </nav>
         </div>
         <div className="tarjetas">
-          <nav>
+          <nav className="nav">
             <a href="">oferta </a>
           </nav>
         </div>
         <div className="tarjetas">
-          <nav>
+          <nav className="nav">
             <a href="">novedades </a>
           </nav>
         </div>
         <div className="tarjetas">
-          <nav>
+          <nav className="nav">
             <a href="">mas vendidos </a>
           </nav>
         </div>
         <div className="tarjetas">
-          <nav>
+          <nav className="nav">
             <a href="">contactos </a>
           </nav>
         </div>
