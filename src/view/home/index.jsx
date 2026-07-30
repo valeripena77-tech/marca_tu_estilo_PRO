@@ -5,9 +5,10 @@ export default function Home() {
     <div>
       <div className="hero">
         <div className="tarjetas">
-          <nav className="nav">
-            <a href="">inico </a>
-          </nav>
+          <p className="nav">
+            ENVIOS RAPIDOS: <p></p> recuibe tu pedido <p></p>en 2 a 5 dias
+            habiles
+          </p>
         </div>
         <div className="tarjetas">
           <nav className="nav">
