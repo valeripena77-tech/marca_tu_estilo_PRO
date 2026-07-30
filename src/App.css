@@ -210,6 +210,7 @@ body {
   border-radius: 8px;
   cursor: pointer;
   margin-top: 10px;
+  text-align: center;
 }
 .tarjetas:hover {
   transform: scale(1.05);
