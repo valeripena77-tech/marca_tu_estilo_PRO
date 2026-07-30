@@ -12,8 +12,9 @@ export function Head() {
           <a href="#">
             <img
               class="w-auto h-6 sm:h-7"
-              src="https://merakiui.com/images/full-logo.svg"
+              src="public/hola2.png"
               alt=""
+              width="200%"
             />
           </a>
           <div class="flex lg:hidden">
