@@ -43,19 +43,25 @@ export function Head() {
               class="my-2 text-purple-900 transition-colors duration-300 transform dark:text-gray-200 hover:text-blue-500 dark:hover:text-blue-400 md:mx-4 md:my-0"
               href="#"
             >
-              Shop
+              Store
+            </a>
+            <a
+              class="my-2 text-purple-900 transition-colors duration-300 transform dark:text-gray-200 hover:text-blue-500 dark:hover:text-blue-400 md:mx-4 md:my-0"
+              href="#"
+            >
+              Category
+            </a>
+            <a
+              class="my-2 text-purple-900 transition-colors duration-300 transform dark:text-gray-200 hover:text-blue-500 dark:hover:text-blue-400 md:mx-4 md:my-0"
+              href="#"
+            >
+              New arrivals
             </a>
             <a
               class="my-2 text-purple-900 transition-colors duration-300 transform dark:text-gray-200 hover:text-blue-500 dark:hover:text-blue-400 md:mx-4 md:my-0"
               href="#"
             >
               Contact
-            </a>
-            <a
-              class="my-2 text-purple-900 transition-colors duration-300 transform dark:text-gray-200 hover:text-blue-500 dark:hover:text-blue-400 md:mx-4 md:my-0"
-              href="#"
-            >
-              About
             </a>
           </div>
           {toggle && (
@@ -70,19 +76,25 @@ export function Head() {
                 class="my-2 text-purple-900 transition-colors duration-300 transform dark:text-gray-200 hover:text-blue-500 dark:hover:text-blue-400 md:mx-4 md:my-0"
                 href="#"
               >
-                Shop
+                Store
+              </a>
+              <a
+                class="my-2 text-purple-900 transition-colors duration-300 transform dark:text-gray-200 hover:text-blue-500 dark:hover:text-blue-400 md:mx-4 md:my-0"
+                href="#"
+              >
+                Category
+              </a>
+              <a
+                class="my-2 text-purple-900 transition-colors duration-300 transform dark:text-gray-200 hover:text-blue-500 dark:hover:text-blue-400 md:mx-4 md:my-0"
+                href="#"
+              >
+                New arrivals
               </a>
               <a
                 class="my-2 text-purple-900 transition-colors duration-300 transform dark:text-gray-200 hover:text-blue-500 dark:hover:text-blue-400 md:mx-4 md:my-0"
                 href="#"
               >
                 Contact
-              </a>
-              <a
-                class="my-2 text-purple-900 transition-colors duration-300 transform dark:text-gray-200 hover:text-blue-500 dark:hover:text-blue-400 md:mx-4 md:my-0"
-                href="#"
-              >
-                About
               </a>
             </div>
           )}
