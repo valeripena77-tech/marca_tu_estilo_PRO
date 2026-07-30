@@ -4,11 +4,6 @@ export default function Home() {
   return (
     <div>
       <div className="hero">
-        <div className="boton">
-          <button class="boton-icono" aria-label="Buscar">
-            <Icons.TextAlignJustify />
-          </button>
-        </div>
         <div className="tarjetas">
           <nav className="nav">
             <a href="">inico </a>
