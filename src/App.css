@@ -206,13 +206,17 @@ body {
   background: #e3caf0;
   color: white;
   border: none;
-  padding: 10px 15px;
+  padding: 10px 10px;
   border-radius: 8px;
   cursor: pointer;
   justify-content: center;
   align-items: center;
   margin-top: 10px;
   text-align: center;
+  width: auto;
+  height: 10px;
+  margin: 10px;
+  font-size: 14px;
 }
 .tarjetas:hover {
   transform: scale(1.05);
