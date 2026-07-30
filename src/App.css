@@ -209,6 +209,8 @@ body {
   padding: 10px 15px;
   border-radius: 8px;
   cursor: pointer;
+  justify-content: center;
+  align-items: center;
   margin-top: 10px;
   text-align: center;
 }
