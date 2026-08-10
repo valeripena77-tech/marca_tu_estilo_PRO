@@ -80,7 +80,7 @@ body {
 /* Tarjeta básica */
 .tarjeta {
   width: 300px;
-  background: white;
+  background: rgb(251, 234, 252);
   border-radius: 15px;
   padding: 20px;
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
