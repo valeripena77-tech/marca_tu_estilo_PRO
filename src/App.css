@@ -115,7 +115,7 @@ body {
 
 /* Botón */
 .tarjeta button {
-  background: #007bff;
+  background: #d18ec5ea;
   color: white;
   border: none;
   padding: 10px 15px;
@@ -144,10 +144,7 @@ body {
 }
 
 .img {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  width: 100%;
+  width: 800px;
 }
 
 .video-seccion h2 {
@@ -168,7 +165,6 @@ body {
   display: flex;
   justify-content: center;
   height: 50px;
-  margin: 10px;
 }
 
 .tarjetas {

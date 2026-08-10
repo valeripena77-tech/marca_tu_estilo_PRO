@@ -7,7 +7,7 @@ export default function Contenst() {
           alt="imagen"
         />
         <h2>pinguino</h2>
-        <p>50000</p>
+        <p>35000</p>
         <button>ver mas</button>
       </div>
       <div className="tarjeta">
@@ -16,7 +16,7 @@ export default function Contenst() {
           alt="imagen"
         />
         <h2>tiburonsin</h2>
-        <p>50000</p>
+        <p>40000</p>
         <button>ver mas</button>
       </div>{" "}
       <div className="tarjeta">
@@ -25,7 +25,7 @@ export default function Contenst() {
           alt="imagen"
         />
         <h2>perritos</h2>
-        <p>50000</p>
+        <p>28000</p>
         <button>ver mas</button>
       </div>{" "}
       <div className="tarjeta">
