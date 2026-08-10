@@ -105,12 +105,14 @@ body {
 .tarjeta h2 {
   color: #333;
   margin: 15px 0 10px;
+  font-family: "Times New Roman", Times, serif;
 }
 
 /* Texto */
 .tarjeta p {
   color: #666;
   font-size: 14px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
 }
 
 /* Botón */
