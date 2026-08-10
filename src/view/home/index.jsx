@@ -5,39 +5,16 @@ export default function Home() {
     <div>
       <div className="hero">
         <div className="tarjetas">
-          <nav className="nav">
-            <a href="">ENVIOS RAPIDOS </a>
-          </nav>
+          <h1>ENVIOS RAPIDOS</h1>
         </div>
         <div className="tarjetas">
-          <nav className="nav">
-            <a href="">tienda </a>
-          </nav>
+          <h1>COMPRAS SEGURAS</h1>
         </div>
         <div className="tarjetas">
-          <nav className="nav">
-            <a href="">categorias </a>
-          </nav>
+          <h1>DEVOLUCIONES FACILES</h1>
         </div>
         <div className="tarjetas">
-          <nav className="nav">
-            <a href="">oferta </a>
-          </nav>
-        </div>
-        <div className="tarjetas">
-          <nav className="nav">
-            <a href="">novedades </a>
-          </nav>
-        </div>
-        <div className="tarjetas">
-          <nav className="nav">
-            <a href="">mas vendidos </a>
-          </nav>
-        </div>
-        <div className="tarjetas">
-          <nav className="nav">
-            <a href="">contactos </a>
-          </nav>
+          <h1>ATENCION AL CLIENTE</h1>
         </div>
       </div>
       <div className="video-seccion">
