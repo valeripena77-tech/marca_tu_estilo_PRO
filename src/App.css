@@ -144,7 +144,10 @@ body {
 }
 
 .img {
-  width: 800px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
 }
 
 .video-seccion h2 {
