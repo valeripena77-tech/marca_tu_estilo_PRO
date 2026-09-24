@@ -11,8 +11,7 @@ export function Head() {
         <div class="flex items-center justify-between">
           <a href="#">
             <img
-              className="img2"
-              class="w-auto h-6 sm:h-7"
+              class="w-auto h-6 sm:h-18"
               src="public/hola2.png"
               alt=""
               width="200%"
