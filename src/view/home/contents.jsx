@@ -316,7 +316,7 @@ export default function Contenst() {
             <div class="h-56 w-full">
               <a href="#">
                 <img class="w-auto h-40 sm:h-56 object-contain"
-                  src="public/termo.jfif"
+                  src="public/billeteras.jfif"
                   alt="" />
 
               </a>
@@ -352,7 +352,7 @@ export default function Contenst() {
                 </div>
               </div>
 
-              <a href="#" class="text-lg font-semibold leading-tight text-gray-900 hover:underline dark:text-white">PlayStation®5 Console – 1TB, PRO Controller</a>
+              <a href="#" class="text-lg font-semibold leading-tight text-gray-900 hover:underline dark:text-white">Billetera de cuero de buey</a>
 
               <div class="mt-2 flex items-center gap-2">
                 <div class="flex items-center">
@@ -412,8 +412,8 @@ export default function Contenst() {
           <div class="rounded-lg border border-gray-200 bg-white p-6 shadow-sm dark:border-gray-700 dark:bg-gray-800">
             <div class="h-56 w-full">
               <a href="#">
-                <img class="mx-auto h-full dark:hidden" src="https://flowbite.s3.amazonaws.com/blocks/e-commerce/xbox-light.svg" alt="" />
-                <img class="mx-auto hidden h-full dark:block" src="https://flowbite.s3.amazonaws.com/blocks/e-commerce/xbox-dark.svg" alt="" />
+                <img class="mx-auto h-full dark:hidden" src="public/platos.jpeg" alt="" />
+
               </a>
             </div>
 
@@ -447,7 +447,7 @@ export default function Contenst() {
                 </div>
               </div>
 
-              <a href="#" class="text-lg font-semibold leading-tight text-gray-900 hover:underline dark:text-white">Microsoft Xbox Series X 1TB Gaming Console</a>
+              <a href="#" class="text-lg font-semibold leading-tight text-gray-900 hover:underline dark:text-white">Vajilla de ceramica</a>
 
               <div class="mt-2 flex items-center gap-2">
                 <div class="flex items-center">
@@ -513,8 +513,8 @@ export default function Contenst() {
           <div class="rounded-lg border border-gray-200 bg-white p-6 shadow-sm dark:border-gray-700 dark:bg-gray-800">
             <div class="h-56 w-full">
               <a href="#">
-                <img class="mx-auto h-full dark:hidden" src="https://flowbite.s3.amazonaws.com/blocks/e-commerce/macbook-pro-light.svg" alt="" />
-                <img class="mx-auto hidden h-full dark:block" src="https://flowbite.s3.amazonaws.com/blocks/e-commerce/macbook-pro-dark.svg" alt="" />
+                <img class="mx-auto h-full dark:hidden" src="public/hogar.jpeg" alt="" />
+
               </a>
             </div>
 
@@ -548,7 +548,7 @@ export default function Contenst() {
                 </div>
               </div>
 
-              <a href="#" class="text-lg font-semibold leading-tight text-gray-900 hover:underline dark:text-white">Apple MacBook PRO Laptop with M2 chip</a>
+              <a href="#" class="text-lg font-semibold leading-tight text-gray-900 hover:underline dark:text-white">Decoracion de muebles</a>
 
               <div class="mt-2 flex items-center gap-2">
                 <div class="flex items-center">
@@ -608,8 +608,8 @@ export default function Contenst() {
           <div class="rounded-lg border border-gray-200 bg-white p-6 shadow-sm dark:border-gray-700 dark:bg-gray-800">
             <div class="h-56 w-full">
               <a href="#">
-                <img class="mx-auto h-full dark:hidden" src="https://flowbite.s3.amazonaws.com/blocks/e-commerce/apple-watch-light.svg" alt="" />
-                <img class="mx-auto hidden h-full dark:block" src="https://flowbite.s3.amazonaws.com/blocks/e-commerce/apple-watch-dark.svg" alt="" />
+                <img class="mx-auto h-full dark:hidden" src="public/accsesorios.jpeg" alt="" />
+
               </a>
             </div>
 
@@ -643,7 +643,7 @@ export default function Contenst() {
                 </div>
               </div>
 
-              <a href="#" class="text-lg font-semibold leading-tight text-gray-900 hover:underline dark:text-white">Apple Watch SE [GPS 40mm], Smartwatch</a>
+              <a href="#" class="text-lg font-semibold leading-tight text-gray-900 hover:underline dark:text-white">Collar perzonalizado en plata pura</a>
 
               <div class="mt-2 flex items-center gap-2">
                 <div class="flex items-center">
@@ -703,8 +703,8 @@ export default function Contenst() {
           <div class="rounded-lg border border-gray-200 bg-white p-6 shadow-sm dark:border-gray-700 dark:bg-gray-800">
             <div class="h-56 w-full">
               <a href="#">
-                <img class="mx-auto h-full dark:hidden" src="https://flowbite.s3.amazonaws.com/blocks/e-commerce/ipad-keyboard.svg" alt="" />
-                <img class="mx-auto hidden h-full dark:block" src="https://flowbite.s3.amazonaws.com/blocks/e-commerce/ipad-keyboard-dark.svg" alt="" />
+                <img class="mx-auto h-full dark:hidden" src="public/cuaderno.jpeg" alt="" />
+
               </a>
             </div>
             <div class="pt-6">
@@ -737,7 +737,7 @@ export default function Contenst() {
                 </div>
               </div>
 
-              <a href="#" class="text-lg font-semibold leading-tight text-gray-900 hover:underline dark:text-white">Microsoft Surface Pro, Copilot+ PC, 13 Inch</a>
+              <a href="#" class="text-lg font-semibold leading-tight text-gray-900 hover:underline dark:text-white">Cuadernos perzonalizados de pasta dura</a>
 
               <div class="mt-2 flex items-center gap-2">
                 <div class="flex items-center">
